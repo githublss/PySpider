@@ -1,0 +1,15 @@
+[D 180908 20:50:21 Passport:8] this is debug
+[I 180908 20:50:21 Passport:9] this is info
+[W 180908 20:50:21 Passport:10] this is waring
+[E 180908 20:50:21 Passport:11] this is error
+[I 180908 20:50:21 web:2063] 304 GET / (127.0.0.1) 3.00ms
+[D 180908 20:50:23 Passport:8] this is debug
+[I 180908 20:50:23 Passport:9] this is info
+[W 180908 20:50:23 Passport:10] this is waring
+[E 180908 20:50:23 Passport:11] this is error
+[I 180908 20:50:23 web:2063] 304 GET / (127.0.0.1) 1.00ms
+[D 180908 20:50:33 Passport:8] this is debug
+[I 180908 20:50:33 Passport:9] this is info
+[W 180908 20:50:33 Passport:10] this is waring
+[E 180908 20:50:33 Passport:11] this is error
+[I 180908 20:50:33 web:2063] 304 GET / (127.0.0.1) 3.00ms

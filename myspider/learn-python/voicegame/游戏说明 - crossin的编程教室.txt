@@ -1,0 +1,16 @@
+windows可直接点击 game.exe 运行，但需要接有麦克风。请勿解压在有中文路径的目录下。
+Mac 解压后右键选择打开，否则会提示不信任。
+
+代码基于 Python 2。
+从代码运行，需安装 cocos2d-python、pygame 和 pyaudio
+
+pip install cocos2d
+pip install pygame
+pip install pyaudio
+
+
+微信公众号：Crossin的编程教室
+微信：crossin11
+
+超好懂的Python入门
+编程世界的新手村
